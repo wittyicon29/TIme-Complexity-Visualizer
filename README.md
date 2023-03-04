@@ -1,4 +1,4 @@
-# TIme-Complexity-Viisualizer-in-Python
+# TIme-Complexity-Viisualizer-in-Python & Java
 
 
 The `time_complexity_visualizer` function takes an algorithm as input and generates a visualization of the running time of the algorithm for different input sizes. It measures the running time of the algorithm for input sizes ranging from `n_min` to `n_max` with a step size of `n_step`, and generates a plot of the running time as a function of the input size.
